@@ -1,2 +1,3 @@
-# refresher
-A refresher of language concepts
+# Refresher
+
+Just another refresher repo for C# and Java.
