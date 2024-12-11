@@ -5,7 +5,7 @@ namespace Chapter1;
 * ation details and showing only the essential features of the object. 
 * It allows you to focus on what an object does rather than how it does it.
 *
-* Benefits: It simplifies the complex reality by modeling classes appropriate 
+* Benefit(s): It simplifies the complex reality by modeling classes appropriate 
 * to the problem, helping in reducing complexity and enhancing maintainability.
 */
 

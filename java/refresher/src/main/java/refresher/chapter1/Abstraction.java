@@ -3,13 +3,13 @@ package refresher.chapter1;
 import java.util.Stack;
 
 /*
-* Abstraction: Abstraction involves the process of hiding the complex implement-
-* ation details and showing only the essential features of the object. 
-* It allows you to focus on what an object does rather than how it does it.
-*
-* Benefits: It simplifies the complex reality by modeling classes appropriate 
-* to the problem, helping in reducing complexity and enhancing maintainability.
-*/
+ * Abstraction: Abstraction involves the process of hiding the complex implement-
+ * ation details and showing only the essential features of the object. 
+ * It allows you to focus on what an object does rather than how it does it.
+ *
+ * Benefits: It simplifies the complex reality by modeling classes appropriate 
+ * to the problem, helping in reducing complexity and enhancing maintainability.
+ */
 public class Abstraction {
     /*
     * The simplest example can be all the internal APIs that a language 
